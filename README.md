@@ -5,7 +5,7 @@ Designed an interactive dashboard analyzing 100k+ orders from a case dataset and
 
 KPIs were as such: 
 
-1. Fullfillemtn Accuracy (On-Time Delivery & by month, year, and customer state)
+1. Fullfillment Accuracy (On-Time Delivery & by month, year, and customer state)
 * Percentage of deliveries that were on tinme. This was very high for deliveries that were delivered in under 15 days.
 
 2. Logistics Cost Ratio (Freight % by Product Category Name)
